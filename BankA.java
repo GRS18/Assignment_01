@@ -1,4 +1,4 @@
-package Assignment_30;
+package Assignment_01;
 
 public class BankA extends Bank {
 
