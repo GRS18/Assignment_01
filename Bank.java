@@ -1,4 +1,4 @@
-package Assignment_30;
+package Assignment_01;
 
 public class Bank {
 	static protected double interest = 6;
